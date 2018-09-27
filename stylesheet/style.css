@@ -1,0 +1,39 @@
+h1 {
+	font-family: sans-serif;
+}
+
+.regDiv {
+	width: 40%;
+	height: 100px;
+	background-color: #6B8E23;
+	border: 2px solid black;
+	padding: 5px;
+	margin: 25px;
+}
+
+#divOne {
+	margin: auto;
+}
+
+#divTwo {
+	display: inline-block;
+}
+
+#divThree {
+	display: inline-block;
+}
+
+#divFour {
+	position: relative;
+}
+
+#divFive {
+	width: 20px;
+	height: 20px;
+	background-color: white;
+	border: 1px solid black;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+	
